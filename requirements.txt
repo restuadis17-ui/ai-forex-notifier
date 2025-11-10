@@ -1,0 +1,7 @@
+python-dotenv
+requests
+pandas
+numpy
+matplotlib
+tensorflow==2.13.0
+scikit-learn
